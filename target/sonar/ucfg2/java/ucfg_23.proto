@@ -1,0 +1,103 @@
+
+ccom.infosys.project.user.controller.userController#viewProducts(Ljava/lang/String;)Ljava/util/List;p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.java@ @(%"startingBlock*ž
+startingBlockp
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.java@% @(Gå
+â
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.java@& @(3
+%10"
+__annotate*86
+4org.springframework.web.bind.annotation.PathVariable*!
+
+productnamejava.lang.String­
+ª
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.java@; @(F
+productnamejava.lang.String"__annotation*
+
+%10*
+1*ý
+1p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaA A(	×
+Ô
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaA A(	
+%0org.slf4j.Logger"__id*B*@4
+2com.infosys.project.user.controller.userController"
+loggerÑÎ
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaA A(B
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*'%
+#Add products to wishlist request {}*!
+
+productnamejava.lang.String2*info(Ljava/lang/String;Ljava/lang/Object;)ž
+›
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaB B(
+%2java.io.PrintStream"__id*
+""‚ÿ
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaB B((
+
+%3void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%2java.io.PrintStream*
+before template2println(Ljava/lang/String;)ô
+ñ
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaC C($1
+%4+org.springframework.web.client.RestTemplate"__id*D*B4
+2com.infosys.project.user.controller.userController"
+
+templateÂ
+¿
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaC2 C(V
+%5java.lang.String"__concat*
+http://PRODUCTMS*
+/products/name/Ô
+Ñ
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaC2 C(b
+%6java.lang.String"__concat*
+
+%5java.lang.String*!
+
+productnamejava.lang.String­ª
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaC C(n
+%7java.util.List"‚org.springframework.web.client.RestTemplate#getForObject(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Object;)Ljava/lang/Object;*3
+1
+%4+org.springframework.web.client.RestTemplate*
+
+%6java.lang.String*
+""2DgetForObject(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Object;)®
+«
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaC C(o
+prodDTOjava.util.List"__id*
+
+%7java.util.Listž
+›
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaD D(
+%8java.io.PrintStream"__id*
+""Š‡
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaD D(
+
+%9void"0java.io.PrintStream#println(Ljava/lang/Object;)V*
+
+%8java.io.PrintStream*
+
+prodDTOjava.util.List2println(Ljava/lang/Object;)"
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaE E(
+
+prodDTOjava.util.List:
+productnamejava.lang.StringB64
+2com.infosys.project.user.controller.userController

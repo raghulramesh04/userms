@@ -1,0 +1,34 @@
+
+Ocom.infosys.project.user.validator.SellerValidator#emailid(Ljava/lang/String;)Zp
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/validator/SellerValidator.java ("3*ñ
+2p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/validator/SellerValidator.java 
+  ("z
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/validator/SellerValidator.java   (
+""*„
+3p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/validator/SellerValidator.java (	û
+ø
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/validator/SellerValidator.java (7
+%0java.lang.String"__concat*+)
+'^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@*53
+1[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$†ƒ
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/validator/SellerValidator.java (8
+%1boolean"-java.lang.String#matches(Ljava/lang/String;)Z*
+
+mailjava.lang.String*
+
+%0java.lang.String2matches(Ljava/lang/String;)*
+2
+1*ñ
+1p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/validator/SellerValidator.java"
+ "("z
+p
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/validator/SellerValidator.java" "(
+"":
+mailjava.lang.StringB6"4
+2com.infosys.project.user.validator.SellerValidator

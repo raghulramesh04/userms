@@ -1,0 +1,39 @@
+
+fcom.infosys.project.user.controller.userController#removeseller(Ljava/lang/Integer;)Ljava/lang/String;r
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaú ú("1*ë
+1r
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaù ù(Ÿ
+÷
+r
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaù ù(
+%0org.slf4j.Logger"__id*B*@4
+2com.infosys.project.user.controller.userController"
+logger‘—
+r
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaù ù(A
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger**(
+&Request for order removal by seller {}*
+
+selleridjava.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)˛
+˚
+r
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaû û(4
+%2.com.infosys.project.user.service.SellerService"__id*I*G4
+2com.infosys.project.user.controller.userController"
+sellerService“œ
+r
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaû û(&
+
+%3void"Qcom.infosys.project.user.service.SellerService#removeseller(Ljava/lang/Integer;)V*6
+4
+%2.com.infosys.project.user.service.SellerService*
+
+selleridjava.lang.Integer2!removeseller(Ljava/lang/Integer;)"é
+r
+fC:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/controller/userController.javaü ü( 
+Deleted successfully:
+selleridjava.lang.IntegerB64
+2com.infosys.project.user.controller.userController

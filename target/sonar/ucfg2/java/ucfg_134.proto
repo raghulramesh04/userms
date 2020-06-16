@@ -1,0 +1,52 @@
+
+ãcom.infosys.project.user.dto.WishlistDTO#createEntity(Lcom/infosys/project/user/dto/WishlistDTO;)Lcom/infosys/project/user/entity/Wishlist;f
+\C:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/dto/WishlistDTO.java (&"1*†
+1f
+\C:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/dto/WishlistDTO.java ()≈¬
+f
+\C:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/dto/WishlistDTO.java ('.
+%0(com.infosys.project.user.entity.Wishlist"(com.infosys.project.user.entity.Wishlist◊
+‘
+f
+\C:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/dto/WishlistDTO.java ()
+%1"2com.infosys.project.user.entity.Wishlist#<init>()V*0
+.
+%0(com.infosys.project.user.entity.WishlistŸ
+÷
+f
+\C:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/dto/WishlistDTO.java	 (*4
+wishlist(com.infosys.project.user.entity.Wishlist"__id*0
+.
+%0(com.infosys.project.user.entity.Wishlistêç
+f
+\C:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/dto/WishlistDTO.java  (1
+%2java.lang.Integer"Hcom.infosys.project.user.dto.WishlistDTO#getBuyerid()Ljava/lang/Integer;*2
+0
+wish(com.infosys.project.user.dto.WishlistDTO2getBuyerid()∂≥
+f
+\C:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/dto/WishlistDTO.java (2
+
+%3void"Icom.infosys.project.user.entity.Wishlist#setBuyerId(Ljava/lang/Integer;)V*6
+4
+wishlist(com.infosys.project.user.entity.Wishlist*
+
+%2java.lang.Integer2setBuyerId(Ljava/lang/Integer;)éã
+f
+\C:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/dto/WishlistDTO.java   (/
+%4java.lang.Integer"Gcom.infosys.project.user.dto.WishlistDTO#getProdid()Ljava/lang/Integer;*2
+0
+wish(com.infosys.project.user.dto.WishlistDTO2getProdid()¥±
+f
+\C:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/dto/WishlistDTO.java   (0
+
+%5void"Hcom.infosys.project.user.entity.Wishlist#setProdId(Ljava/lang/Integer;)V*6
+4
+wishlist(com.infosys.project.user.entity.Wishlist*
+
+%4java.lang.Integer2setProdId(Ljava/lang/Integer;)"†
+f
+\C:/Users/ROYAL LINK TRADE/userms/src/main/java/com/infosys/project/user/dto/WishlistDTO.java! !(6
+4
+wishlist(com.infosys.project.user.entity.Wishlist:0
+wish(com.infosys.project.user.dto.WishlistDTOB,*
+(com.infosys.project.user.dto.WishlistDTO
